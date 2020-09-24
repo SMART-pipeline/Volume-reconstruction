@@ -1,2 +1,2 @@
 # Volume-reconstruction
-Available after publication.
+Available after publication of the paper.
