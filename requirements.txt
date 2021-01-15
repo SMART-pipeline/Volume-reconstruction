@@ -1,0 +1,13 @@
+h5py
+numpy
+opencv-python
+pillow
+pyqt5
+pyyaml
+scipy
+scikit-learn
+SimpleITK #SimpleElastix
+tifffile
+torch
+torchvision
+
